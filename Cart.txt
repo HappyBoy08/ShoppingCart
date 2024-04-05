@@ -1,5 +1,8 @@
 public class(){
 public static void main(String args[]){
 int i;
-for(i=0;i<=;i++
+for(i=0;i<=25;i++){
+println("number is :",i++);
+}
+}
 }
